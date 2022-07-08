@@ -1,3 +1,1 @@
-Hola, me llamo Juan Fran, pero todo mis colegas me llaman Cobo, actualmente estoy estudiando programacion web con la intencion de trabajar de ello
-actualmente mi fuerte es la maquetación pero poco a poco estoy estudiando programacion para mejorar en la parte de programación y ser un programador 
-un poco mas completo
+Hola, me llamo Juan Fran, actualmente estoy estudiando programación web ya que me apasiona el mundillo, me gustaría ser un nómada digital para poder hacer las dos cosas que mas me gustan, trabajar como desarrollador web y viajar por el mundo. 
